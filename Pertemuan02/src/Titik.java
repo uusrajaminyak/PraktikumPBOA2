@@ -1,7 +1,7 @@
 /* Nama File    : Titik.java */
 /* Deskripsi    : berisi atribut dan method untuk objek Titik */
 /* Pembuat      : Yustinus Hendi Setyawan */
-/* Tanggal      : Kamis, 23 Januari 2026 */
+/* Tanggal      : Senin, 23 Februari 2026 */
 
 public class Titik {
     // Atribut

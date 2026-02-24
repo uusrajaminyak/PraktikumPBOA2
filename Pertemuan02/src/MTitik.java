@@ -1,7 +1,7 @@
 /* Nama File    : MTitik.java */
 /* Deskripsi    : berisi atribut dan method untuk objek Titik */
 /* Pembuat      : Yustinus Hendi Setyawan */
-/* Tanggal      : Kamis, 23 Januari 2026 */
+/* Tanggal      : Senin, 23 Februari 2026 */
 
 public class MTitik {
     public static void main(String[] args) {
