@@ -1,3 +1,4 @@
+/* Nama File    : Garis.java */
 /* Deskripsi    : berisi atribut dan method untuk objek Garis */
 /* Pembuat      : Yustinus Hendi Setyawan */
 /* Tanggal      : Selasa, 24 Februari 2026 */
