@@ -32,5 +32,7 @@ public class Main {
         lingkaran2.printInfo();
         System.out.println("Luas Lingkaran: " + lingkaran2.getLuas());
         System.out.println("Keliling Lingkaran: " + lingkaran2.getKeliling());
+
+        System.out.println("\nTotal Bangun Datar yang dibuat: " + BangunDatar.counterBangunDatar);
     }
 }

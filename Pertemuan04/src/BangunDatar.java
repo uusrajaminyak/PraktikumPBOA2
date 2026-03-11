@@ -8,7 +8,7 @@ public class BangunDatar {
     private  Integer jmlSisi;
     private String Warna;
     private String border;
-    private static Integer counterBangunDatar = 0;
+    protected static Integer counterBangunDatar = 0;
 
     //Konstruktor
     public BangunDatar() {
@@ -54,4 +54,14 @@ public class BangunDatar {
         System.out.println("Warna: " + Warna);
         System.out.println("Border: " + border);
     }
+
+    public static void printCounter() {
+        System.out.println(counterBangunDatar);
+    }
+
+    //     public final void printInfo() {
+    //     System.out.println("Jumlah Sisi: " + jmlSisi);
+    //     System.out.println("Warna: " + Warna);
+    //     System.out.println("Border: " + border);
+    // }
 }
